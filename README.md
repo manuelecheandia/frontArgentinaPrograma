@@ -1,2 +1,2 @@
 # frontArgentinaPrograma
-Argentina Programa - Frontend Proyect 
+Argentina Programa - Frontend Project 
